@@ -1,3 +1,0 @@
-/home/asr/projects/LoadBalancer/CMakeFiles/LoadBalancer.dir
-/home/asr/projects/LoadBalancer/CMakeFiles/edit_cache.dir
-/home/asr/projects/LoadBalancer/CMakeFiles/rebuild_cache.dir
