@@ -1,0 +1,8 @@
+# Build artifacts
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+LoadBalancer
+
+# Editor and OS files
+.vscode/
