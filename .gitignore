@@ -4,6 +4,7 @@ CMakeCache.txt
 cmake_install.cmake
 Makefile
 LoadBalancer
+Backend
 
 # Editor and OS files
 .vscode/
